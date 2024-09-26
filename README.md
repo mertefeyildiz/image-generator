@@ -42,7 +42,7 @@ This project is a web-based application that allows users to generate custom ima
 Below is an example of the input interface where users upload images, enter prompts, and customize their outputs:
 
 <p align="center">
-    <img src="images/input_interface.png" alt="Input Interface" width="500">
+    <img src="images/input_1.png" alt="Input Interface" width="500">
 </p>
 
 ## Input and Output Examples
@@ -57,7 +57,7 @@ The logo used across all examples:
 
 **Input:**
 - **Image:**
-  <img src="images/input_1.png" alt="Input Image 1" width="200">
+  <img src="images/input_image_1.png" alt="Input Image 1" width="200">
 - **Prompt:** "make the glass bigger"
 - **Hex Color Image:** #800080
 - **Punchline:** "Best Coffee Shop"
@@ -73,7 +73,7 @@ The logo used across all examples:
 
 **Input:**
 - **Image:**
-  <img src="images/input_2.png" alt="Input Image 2" width="200">
+  <img src="images/input_image_2.jpg" alt="Input Image 2" width="200">
 - **Prompt:** "harden the bear's gaze"
 - **Hex Color Image:** #008000
 - **Punchline:** "Run away from the bear"
@@ -89,7 +89,7 @@ The logo used across all examples:
 
 **Input:**
 - **Image:**
-  <img src="images/input_3.png" alt="Input Image 3" width="200">
+  <img src="images/input_image_3.jpg" alt="Input Image 3" width="200">
 - **Prompt:** "make the image sensational"
 - **Hex Color Image:** #008000
 - **Punchline:** "THROUGH THE ART"
