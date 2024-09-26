@@ -37,6 +37,14 @@ This project is a web-based application that allows users to generate custom ima
 4. Adds a punchline and button text.
 5. Clicks "Generate" to produce the customized image.
 
+### Input Interface Example
+
+Below is an example of the input interface where users upload images, enter prompts, and customize their outputs:
+
+<p align="center">
+    <img src="images/input_interface.png" alt="Input Interface" width="500">
+</p>
+
 ## Input and Output Examples
 
 ### Logo
@@ -139,4 +147,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any questions or feedback, please contact [your-email@example.com].
-
